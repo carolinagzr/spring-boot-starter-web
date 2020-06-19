@@ -38,7 +38,7 @@
 	</dependencies>
 
 	<build>
-	<finalName>spring-boot-starter-web</finalName> 
+	<finalName>hello</finalName> 
 		<plugins>
 
 			<plugin>
